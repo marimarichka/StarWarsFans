@@ -1,0 +1,1 @@
+export const LOADING_TABLE_KEY = 'LOADING_TABLE_KEY';
